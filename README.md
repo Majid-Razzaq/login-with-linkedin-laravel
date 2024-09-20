@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
     </a>
     <a href="https://linkedin.com" target="_blank" style="margin-left: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="150" alt="LinkedIn Logo">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="130" alt="LinkedIn Logo">
     </a>
 </p>
 
